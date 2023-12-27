@@ -1,2 +1,1 @@
-# test2
-w
+# Sangfor Installer (Mac)
