@@ -1,1 +1,0 @@
-# Sangfor Installer (Mac)
